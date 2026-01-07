@@ -17,11 +17,11 @@ I focus on building **data-driven solutions**, from exploratory analysis to pred
 
 | Project | Description | Repository |
 | :--- | :--- | :--- |
-| **Final Project – EBAC** | End-to-end Data Science project, from business understanding to modeling | [Repo](LINK_TO_YOUR_REPO) |
+| **Final Project – EBAC** | End-to-end Data Science project, from business understanding to modeling | [Repo][(https://github.com/ediloyG/prediction-of-hypothyroidism)] |
 | **Credit Risk Analysis** | Default prediction and risk profiling using ML models | [Repo](LINK_TO_YOUR_REPO) |
 | **Sales Forecasting** | Regression-based model to forecast revenue | [Repo](LINK_TO_YOUR_REPO) |
 
-> 📌 Pinned repositories below showcase hands-on projects with real-world datasets and business focus.
+> 📌 
 
 ---
 
@@ -50,8 +50,8 @@ I focus on building **data-driven solutions**, from exploratory analysis to pred
 
 <div align="center">
   <a href="https://github.com/ediloyG">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ediloyG&show_icons=true&count_private=true&hide=prs&theme=radical"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediloyG&layout=compact&langs_count=8&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ediloyG&show_icons=true&count_private=true&hide=prs&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ediloyG&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
 
@@ -72,3 +72,4 @@ I focus on building **data-driven solutions**, from exploratory analysis to pred
 📌 **Open to:** Remote, Hybrid, or On-site opportunities worldwide.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
+
