@@ -6,35 +6,29 @@
 
 ## Skills :
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="50" alt="r logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" alt="azure sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" alt="csharp logo" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=10% width=10% />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=10% width=10% />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height=10% width=10% />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=10% width=10% />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=10% width=10%/>
+  
 </p>
 
-## Let's connect:
+- ## Let's connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediloy-guilherme-87a432186)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediloy-guilherme-87a432186)
 
-## Stats:
+- ## Stats:
 
-<div align="center">
-  <a href="https://github.com/ediloyG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ediloyG&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediloyG&locale=en&hide_title=false&layout=compact&&langs_count=10&theme=radical"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ediloyG&theme=radical&bg_color=0D1117&color=7846E2&point=CEAE99&line=4F6B7B&hide_border=false&count_private=true&height=400&width=100%" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ediloyGim&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&height=100%&width=100%)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ediloyG&locale=en&hide_title=false&layout=compact&&langs_count=10&theme=radical&height=100%&width=100%)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ediloyG&theme=github&bg_color=0D1117&color=7846E2&point=CEAE99&line=4F6B7B&hide_border=false&theme=radical&count_private=true&height=400&width=100%)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
+
+<picture align = "center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BBren0/BBren0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BBren0/BBren0/output/github-contribution-grid-snake.svg">
+</picture>
+
