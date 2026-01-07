@@ -18,10 +18,11 @@ I focus on building **data-driven solutions**, from exploratory analysis to pred
 | Project | Description | Repository |
 | :--- | :--- | :--- |
 | **Final Project – EBAC** | End-to-end Data Science project, from business understanding to modeling | [Repo](https://github.com/ediloyG/prediction-of-hypothyroidism) |
-| **Time forecast** | XGBoost-based forecasting of greenhouse gas emissions using temporal feature engineering | [Repo](https://github.com/ediloyG/data-science-studies/tree/main/29.%20Time%20forecast%20using%20XGBRegressor) |
-| **Sales Forecasting** | Regression-based model to forecast revenue | [Repo](LINK_TO_YOUR_REPO) |
+| **Time Series Forecasting** | XGBoost-based forecasting of greenhouse gas emissions using temporal feature engineering | [Repo](https://github.com/ediloyG/data-science-studies/tree/main/29.%20Time%20forecast%20using%20XGBRegressor) |
+| **Model Comparison (Classification)** | Supervised classification project comparing multiple machine learning models to predict passenger survival, including data preprocessing, feature scaling, and model evaluation. | [Repo](https://github.com/ediloyG/data-science-studies/tree/main/28.%20Duels%20Model) |
 
-> 📌 
+> 📌 Pinned repositories showcase end-to-end data science projects with real-world datasets.
+
 
 ---
 
@@ -72,6 +73,7 @@ I focus on building **data-driven solutions**, from exploratory analysis to pred
 📌 **Open to:** Remote, Hybrid, or On-site opportunities worldwide.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
+
 
 
 
