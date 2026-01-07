@@ -17,7 +17,7 @@ I focus on building **data-driven solutions**, from exploratory analysis to pred
 
 | Project | Description | Repository |
 | :--- | :--- | :--- |
-| **Final Project – EBAC** | End-to-end Data Science project, from business understanding to modeling | [Repo][(https://github.com/ediloyG/prediction-of-hypothyroidism)] |
+| **Final Project – EBAC** | End-to-end Data Science project, from business understanding to modeling | [Repo](https://github.com/ediloyG/prediction-of-hypothyroidism) |
 | **Credit Risk Analysis** | Default prediction and risk profiling using ML models | [Repo](LINK_TO_YOUR_REPO) |
 | **Sales Forecasting** | Regression-based model to forecast revenue | [Repo](LINK_TO_YOUR_REPO) |
 
@@ -72,4 +72,5 @@ I focus on building **data-driven solutions**, from exploratory analysis to pred
 📌 **Open to:** Remote, Hybrid, or On-site opportunities worldwide.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
+
 
